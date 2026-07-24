@@ -12,3 +12,29 @@ Enterprise documentation for the Trust AWAKEN Digital Trust Platform.
 - Deployment
 - Operations
 - ADRs
+
+Platform
+
+↓
+
+Organization
+
+│
+
+├── Organization Settings
+
+├── Organization Branding
+
+├── Organization Security
+
+├── Organization Contacts
+
+├── Organization Addresses
+
+├── Organization Domains
+
+├── Organization Subscription
+
+├── Organization Features
+
+└── Organization Preferences
