@@ -70,3 +70,11 @@ Organization Subscription
 Organization Features
 
 Organization Preferences
+
+## Aggregate Root
+
+Organization
+
+Everything inside Trust AWAKEN belongs to an Organization.
+
+The Organization Aggregate is the root Aggregate of the Digital Trust Platform.
