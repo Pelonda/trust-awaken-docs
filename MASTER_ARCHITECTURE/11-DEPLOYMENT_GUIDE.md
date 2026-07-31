@@ -1,0 +1,7 @@
+Local
+
+Development
+
+Staging
+
+Production

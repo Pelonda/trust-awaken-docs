@@ -1,0 +1,1 @@
+Trust AWAKEN is a multi-tenant Digital Trust Platform that enables organizations to issue, manage, verify, and preserve trusted digital credentials, documents, and records.
