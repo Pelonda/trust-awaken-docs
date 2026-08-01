@@ -1,0 +1,9 @@
+platform_users
+
+platform_roles
+
+platform_permissions
+
+platform_settings
+
+platform_audit
